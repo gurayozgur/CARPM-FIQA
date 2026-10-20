@@ -1,0 +1,9 @@
+torch>=1.7.1
+torchvision
+numpy
+opencv-python
+scikit-learn
+pandas
+tqdm
+# only needed to train on MS1MV2 (InsightFace .rec format)
+# mxnet
