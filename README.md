@@ -1,7 +1,7 @@
 # Learning Steadily: Accumulating Relative Point Margin Scores for Face Image Quality Assessment
 # CARPM-FIQA
 
-This repository contains the official implementation of the paper **"Learning Steadily: Accumulating Relative Point Margin Scores for Face Image Quality Assessment"**, accepted at IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM).
+This repository contains the official implementation of the paper **"[Learning Steadily: Accumulating Relative Point Margin Scores for Face Image Quality Assessment](https://ieeexplore.ieee.org/document/11695208)"**, accepted at IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM).
 
 ## Overview
 
